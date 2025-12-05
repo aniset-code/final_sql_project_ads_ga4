@@ -26,5 +26,6 @@
 
 ## 👤 Автор
 **Андрій Сєтраков**  
-Email: aniset@gmail.com
-LinkedIn: *вставити посилання*
+Email: aniset@gmail.com  
+LinkedIn: https://www.linkedin.com/in/andrey-undefined-6a5147373
+
