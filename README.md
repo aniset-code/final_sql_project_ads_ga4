@@ -7,6 +7,12 @@
 - BigQuery (GA4)
 - CTE, window functions, агрегати
 - Робота з датами та конверсійними метриками
+  
+## Як запускати
+
+1. Відкрити `task1.sql`–`task5.sql` у DBeaver / psql, підключившись до БД `ads_analysis_goit_course`.
+2. Запити `ga4_events_table.sql` та `ga4_funnel_conversion.sql` виконуються у BigQuery
+   проти датасету `bigquery-public-data.ga4_obfuscated_sample_ecommerce`.
 
 ## 📂 Файли проєкту
 - `task1.sql` — агреговані метрики витрат Google/Facebook  
